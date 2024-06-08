@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fluid Simulations](Not finished yet!)
 
-- 🌱 I’m currently learning **3D printing stuff \n New coding skills in Java, C#, Python, Lua, and Scratch**
+- 🌱 I’m currently learning **3D printing stuff. New coding skills in Java, C#, Python, Lua, and Scratch**
 
 - 👨‍💻 All of my projects are available at [https://xloadingx.github.io/All-My-Stuff/](https://xloadingx.github.io/All-My-Stuff/)
 
