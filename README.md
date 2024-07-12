@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm xLoadingx</h1>
-<h3 align="center">A programmer on Scratch and a modder for RUMBLE VR (and do some other things sometimes)</h3>
+<h1 align="center">Hi 👋, I'm xLoadingx, or ERROR</h1>
+<h3 align="center">A modder for RUMBLE VR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xloadingx&label=Profile%20views&color=0e75b6&style=flat" alt="xloadingx" /> </p>
 
-- 🔭 I’m currently working on [Fluid Simulations](Not finished yet!)
+- 🔭 I’m currently working on Button Bending for RUMBLE VR!
 
-- 🌱 I’m currently learning **3D printing stuff. New coding skills in Java, C#, Python, Lua, and Scratch**
+- 🌱 I’m currently learning **3D printing stuff. New coding skills in Java, C#, Python, and Lua**
 
 - 👨‍💻 All of my projects are available at [https://xloadingx.github.io/All-My-Stuff/](https://xloadingx.github.io/All-My-Stuff/)
 
