@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xloadingx&label=Profile%20views&color=0e75b6&style=flat" alt="xloadingx" /> </p>
 
-- 🔭 I’m currently working on Button Bending for RUMBLE VR!
+- 🔭 I’m currently working on a Rumble Mod Manager!
 
 - 🌱 I’m currently learning **3D printing stuff. New coding skills in Java, C#, Python, and Lua**
 
