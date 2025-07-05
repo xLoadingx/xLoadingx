@@ -2,9 +2,9 @@
 <h3 align="center">I make mods for RUMBLE VR</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xloadingx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for xloadingx" /> 
-  I'm just as confused as you are
+  <img src="https://komarev.com/ghpvc/?username=xloadingx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for xloadingx" />
 </p>
+What?
 
 - Currently building a mod manager for RUMBLE VR  
 - Learning more about modding, including reflection and harmony
