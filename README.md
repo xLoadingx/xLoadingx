@@ -3,7 +3,6 @@
 
 - Currently building a mod manager for RUMBLE VR  
 - Learning more about modding, including reflection and harmony
-- ⚠️ Fun fact: I rarely leave my room. But hey, if you're reading this on GitHub, you probably get it.  
 
 <h3 align="left">Tools I Use:</h3>
 <p align="left">
