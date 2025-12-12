@@ -1,4 +1,4 @@
-<h1 align="center">Hi :3 I'm ERROR (or xLoadingx)</h1>
+<h1 align="center">Hi :3 I'm ERROR (or Cali)</h1>
 <h3 align="center">I make mods for RUMBLE VR</h3>
 
 - Building a mod manager for RUMBLE VR  
