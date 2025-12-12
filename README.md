@@ -1,8 +1,8 @@
-<h1 align="center">Hi! I'm ERROR (or xLoadingx)</h1>
+<h1 align="center">Hi :3 I'm ERROR (or xLoadingx)</h1>
 <h3 align="center">I make mods for RUMBLE VR</h3>
 
-- Currently building a mod manager for RUMBLE VR  
-- Learning more about modding, including reflection and harmony
+- Building a mod manager for RUMBLE VR  
+- Currently building a (RUMBLE Replay Mod)[https://github.com/xLoadingx/RumbleAnimator.git]
 
 <h3 align="left">Tools I Use:</h3>
 <p align="left">
