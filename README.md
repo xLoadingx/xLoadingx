@@ -1,7 +1,6 @@
 <h1 align="center">Hi :3 I'm ERROR (or Callie)</h1>
 <h3 align="center">I make mods for RUMBLE VR</h3>
 
-- Building a mod manager for RUMBLE VR  
 - Currently building a [RUMBLE Replay Mod](https://github.com/xLoadingx/RumbleAnimator.git)
 
 <h3 align="left">Tools I Use:</h3>
