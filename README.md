@@ -1,4 +1,4 @@
-<h1 align="center">Hi :3 I'm ERROR (or Callie)</h1>
+<h1 align="center">Hi :3 I'm ERROR</h1>
 
 I am usually working on a mod for Outer Wilds or RUMBLE VR (though I have started focusing less on RUMBLE)
 
