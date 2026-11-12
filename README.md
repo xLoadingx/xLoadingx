@@ -24,4 +24,7 @@ Projects I'm proud of:
   <a href="https://obsidian.md/" target="_blank" ref="noreferrer">
     <img src="https://raw.githubusercontent.com/xLoadingx/xLoadingx/main/obsidian-icon.svg" alt="obsidian" width="40" height="40"/>
   </a>
+  <a href="https://www.reaper.fm/" target="_blank" ref="noreferrer">
+    <img src="https://raw.githubusercontent.com/xLoadingx/xLoadingx/main/Reaper-removebg-preview.png" alt="obsidian" width="40" height ="40"/>
+  </a>
 </p>
