@@ -5,7 +5,7 @@ I am usually working on a mod for Outer Wilds or RUMBLE VR (though I have starte
 Projects I'm proud of:
 - <a href="https://github.com/xLoadingx/ReplayMod.git">Replay Mod</a>
 - <a href="https://github.com/xLoadingx/custom-avatars-code.git">Custom Avatars</a> (though this is somewhat unfinished)
-- <a href="https://github.com/xLoadingx/The-Vestige.git">The Vestige</a> (notes soon to come!)
+- <a href="https://github.com/xLoadingx/The-Vestige.git">The Vestige</a> and <a href="https://github.com/xLoadingx/The-Vestige-Notes.git">the Notes</a>
 
 <h3 align="left">Tools I Use:</h3>
 <p align="left">
